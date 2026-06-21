@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Avaliação de Imóveis",
+  "description": "Ferramenta educativa para simulação preliminar de avaliação de imóveis urbanos e estimativa de financiamento bancário no Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
